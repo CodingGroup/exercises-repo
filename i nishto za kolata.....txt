@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+haide na kolata
+=======
+VW Golf GTI 3.8
+>>>>>>> db534657d8344e9dd2768ce10506c535c6bd37b9
